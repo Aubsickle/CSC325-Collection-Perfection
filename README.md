@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/-Open_In_Intellij_IDEA-blue?logo=intellijidea) ![GitHub contributors](https://img.shields.io/github/contributors/serenad96/CSC325-Collection-Perfection)
 
-### ~NOTE~
+### --NOTE--
 This project was originally created under my teammates github account for my software engineering class. 
 This repository is a fork of that. Contribution details are listed at the bottom of the readme. ![Link to Original Repository](https://github.com/serenad96/CSC325-Collection-Perfection)
 
